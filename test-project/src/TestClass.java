@@ -10,6 +10,8 @@ public class TestClass {
 		System.out.println("merge this to master");
 		
 		System.out.println("creating tags");
+		
+		System.out.println("After tag");
 	}
 
 }
