@@ -8,6 +8,8 @@ public class TestClass {
 		System.out.println("hello");
 		
 		System.out.println("merge this to master");
+		
+		System.out.println("creating tags");
 	}
 
 }
